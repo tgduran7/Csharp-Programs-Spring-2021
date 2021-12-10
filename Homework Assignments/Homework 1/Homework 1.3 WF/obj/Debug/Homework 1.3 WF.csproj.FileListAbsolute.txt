@@ -1,0 +1,10 @@
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\bin\Debug\Homework 1.3 WF.exe.config
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\bin\Debug\Homework 1.3 WF.exe
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\bin\Debug\Homework 1.3 WF.pdb
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\obj\Debug\Homework 1.3 WF.csprojAssemblyReference.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\obj\Debug\Homework_1._3_WF.frmFinalGradeCalculator.resources
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\obj\Debug\Homework_1._3_WF.Properties.Resources.resources
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\obj\Debug\Homework 1.3 WF.csproj.GenerateResource.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\obj\Debug\Homework 1.3 WF.csproj.CoreCompileInputs.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\obj\Debug\Homework 1.3 WF.exe
+C:\Users\tyson\source\repos\Homework Assignments\Homework 1\Homework 1.3 WF\obj\Debug\Homework 1.3 WF.pdb
