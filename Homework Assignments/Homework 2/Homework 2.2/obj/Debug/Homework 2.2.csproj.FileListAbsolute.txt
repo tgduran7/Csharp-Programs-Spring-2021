@@ -1,0 +1,10 @@
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\bin\Debug\Homework 2.2.exe.config
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\bin\Debug\Homework 2.2.exe
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\bin\Debug\Homework 2.2.pdb
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\obj\Debug\Homework 2.2.csprojAssemblyReference.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\obj\Debug\Homework_2._2.Form1.resources
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\obj\Debug\Homework_2._2.Properties.Resources.resources
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\obj\Debug\Homework 2.2.csproj.GenerateResource.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\obj\Debug\Homework 2.2.csproj.CoreCompileInputs.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\obj\Debug\Homework 2.2.exe
+C:\Users\tyson\source\repos\Homework Assignments\Homework 2\Homework 2.2\obj\Debug\Homework 2.2.pdb
