@@ -1,0 +1,7 @@
+C:\Users\tyson\source\repos\Projects\Project 1 - Guess A Number\GuessANumber Project 1 ConsApp\bin\Debug\GuessANumber Project 1 ConsApp.exe.config
+C:\Users\tyson\source\repos\Projects\Project 1 - Guess A Number\GuessANumber Project 1 ConsApp\bin\Debug\GuessANumber Project 1 ConsApp.exe
+C:\Users\tyson\source\repos\Projects\Project 1 - Guess A Number\GuessANumber Project 1 ConsApp\bin\Debug\GuessANumber Project 1 ConsApp.pdb
+C:\Users\tyson\source\repos\Projects\Project 1 - Guess A Number\GuessANumber Project 1 ConsApp\obj\Debug\GuessANumber Project 1 ConsApp.csprojAssemblyReference.cache
+C:\Users\tyson\source\repos\Projects\Project 1 - Guess A Number\GuessANumber Project 1 ConsApp\obj\Debug\GuessANumber Project 1 ConsApp.csproj.CoreCompileInputs.cache
+C:\Users\tyson\source\repos\Projects\Project 1 - Guess A Number\GuessANumber Project 1 ConsApp\obj\Debug\GuessANumber Project 1 ConsApp.exe
+C:\Users\tyson\source\repos\Projects\Project 1 - Guess A Number\GuessANumber Project 1 ConsApp\obj\Debug\GuessANumber Project 1 ConsApp.pdb
