@@ -1,0 +1,72 @@
+namespace GuessANumber_Project_1_ConsApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("GUESS GAME\n");
+
+            //Variables
+            ArrayList allNrofGuesses = new ArrayList();
+            Random random = new Random();
+            bool endGame = false;
+
+            //Game Loop
+            while (endGame == false)
+            {
+                int guessNumber = random.Next(1, 100);
+                Console.WriteLine("CHEAT: " + guessNumber);
+                int userGuess = 0;
+                int nrofGuesses = 0;
+
+                while (userGuess != guessNumber)
+                {
+
+
+                    Console.Write("Make a guess: ");
+                    userGuess = Convert.ToInt32(Console.ReadLine());
+                    ++nrofGuesses;
+
+                    //Exit the game
+                    if (userGuess == -1)
+                    {
+                        endGame = true;
+                    }
+                    //Win condition
+                    if (userGuess == guessNumber)
+                    {
+                        Console.WriteLine("Your guess is correct!");
+                        Console.Write("Play again (y/n): ");
+                        char playAgain = Convert.ToChar(Console.Read());
+
+                        if (playAgain == 'n')
+                        {
+                            endGame = true;
+                        }
+                        allNrofGuesses.Add(nrofGuesses);
+                    }
+                    else if (userGuess < guessNumber)
+                    {
+                        Console.WriteLine("Too low, try again!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Too high, try again!");
+                    }
+                }
+                //Clear
+                Console.Clear();
+            }
+
+            //End game
+            Console.WriteLine("End of game. Thanks for playing! ");
+
+            //Print out high-score list
+            for (int i = 0; i < allNrofGuesses.Count; ++i)
+            {
+                Console.WriteLine(i + ": " + allNrofGuesses[i]);
+            }
+            
+        }
+    }
+}
