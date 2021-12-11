@@ -1,0 +1,7 @@
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.2\bin\Debug\Homework 3.2.exe.config
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.2\bin\Debug\Homework 3.2.exe
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.2\bin\Debug\Homework 3.2.pdb
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.2\obj\Debug\Homework 3.2.csprojAssemblyReference.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.2\obj\Debug\Homework 3.2.csproj.CoreCompileInputs.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.2\obj\Debug\Homework 3.2.exe
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.2\obj\Debug\Homework 3.2.pdb

@@ -1,0 +1,10 @@
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\bin\Debug\Homework 3.3.exe.config
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\bin\Debug\Homework 3.3.exe
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\bin\Debug\Homework 3.3.pdb
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\obj\Debug\Homework 3.3.csprojAssemblyReference.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\obj\Debug\Homework_3._3.Form1.resources
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\obj\Debug\Homework_3._3.Properties.Resources.resources
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\obj\Debug\Homework 3.3.csproj.GenerateResource.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\obj\Debug\Homework 3.3.csproj.CoreCompileInputs.cache
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\obj\Debug\Homework 3.3.exe
+C:\Users\tyson\source\repos\Homework Assignments\Homework 3\Homework 3.3\obj\Debug\Homework 3.3.pdb
